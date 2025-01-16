@@ -11,5 +11,6 @@ Ada bebrapa note untuk menjalankan sistem ini dengan normal :
  - php artisan serve
  - npm run dev
    secara bersamaan di terminal
-6. Dokumentasi ada di folder "public/dokumentasi pekerjaan"
+6. Dokumentasi ada di folder "public/dokumentasi_pekerjaan"
+7. fastprint\app\Http\Controllers\Admin\ProductController.php => mengatur semua fungsi CRUD produk dan fetch data dari API untuk diinputkan ke database
  
